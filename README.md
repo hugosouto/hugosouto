@@ -8,17 +8,10 @@ With over ten years of experience as an analyst and manager and five years in da
 
 ## Some Technologies
 
-<img src="img/python.png" height="50" title="Python" alt="Python Logo"/>
-<img src="img/postgres.png" height="50" title="PostreSQL" alt="PostreSQL Logo"/>
-<img src="img/pandas.png" height="50" title="Pandas" alt="Pandas"/>
-<img src="img/scikitlearn.png" height="50" title="Scikit-Learn" alt="Scikit-Learn Logo"/>
-<img src="img/tensorflow.png" height="50" title="TensorFlow" alt="TensorFlow Logo"/>
-
-<img src="img/azureml.png" height="50" title="Microsoft Azure Machine Learning" alt="Microsoft Azure Machine Learning Logo"/>
-<img src="img/docker.png" height="50" title="Docker" alt="Docker Logo"/>
-<img src="img/airflow.png" height="50" height="50%" title="Airflow" alt="Airflow Logo" style="position:relative;top:20%;"/></span>
-<img src="img/pytorch.png" height="50" title="PyTorch" alt="PyTorch Logo"/>
-<img src="img/vscode.png" height="50" title="VS Code" alt="VS Code Logo"/>
+| | | | | |
+|---|---|---|---|---|
+| ![Python Logo](img/python.png "Python") | ![PostgreSQL Logo](img/postgres.png "PostgreSQL") | ![Pandas Logo](img/pandas.png "Pandas") | ![Scikit-Learn Logo](img/scikitlearn.png "Scikit-Learn") | ![TensorFlow Logo](img/tensorflow.png "TensorFlow") |
+| ![Microsoft Azure Machine Learning Logo](img/azureml.png "Microsoft Azure Machine Learning") | ![Docker Logo](img/docker.png "Docker") | ![Airflow Logo](img/airflow.png "Airflow") | ![PyTorch Logo](img/pytorch.png "PyTorch") | ![VS Code Logo](img/vscode.png "VS Code") |
 
 ## Activity Statistics
 
