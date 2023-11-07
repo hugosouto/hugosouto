@@ -11,7 +11,3 @@ With over ten years of experience as an analyst and manager and five years in da
 | ![Python Logo](img/python.png "Python") | ![PostgreSQL Logo](img/postgres.png "PostgreSQL") | ![Pandas Logo](img/pandas.png "Pandas") | ![Scikit-Learn Logo](img/scikitlearn.png "Scikit-Learn") | ![TensorFlow Logo](img/tensorflow.png "TensorFlow") | ![Microsoft Azure Machine Learning Logo](img/azureml.png "Microsoft Azure Machine Learning") | ![Docker Logo](img/docker.png "Docker") | ![Airflow Logo](img/airflow.png "Airflow") | ![PyTorch Logo](img/pytorch.png "PyTorch") | ![VS Code Logo](img/vscode.png "VS Code") |
 |---|---|---|---|---|---|---|---|---|---|
 | Python | PostgreSQL | Pandas | Scikit-Learn | TensorFlow | Azure AI | Docker | Airflow |  PyTorch | VS Code |
-
-## Activity Statistics
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hugosouto&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats)
