@@ -8,34 +8,26 @@ With over ten years of experience as an analyst and manager and five years in da
 
 ## Technologies
 
-<!-- ## Python -->
-![Python Logo](img/python.png)
+<img src="img/python.png" width="60%" height="60%" title="Python" alt="Python Logo" style="position:relative;top:20%;"/>
 
-<!-- ## PostgreSQL -->
-![PostreSQL Logo](img/postgres.png)
+<img src="img/postgres.png" width="60%" height="60%" title="PostreSQL" alt="PostreSQL Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## Pandas -->
-![Pandas Logo](img/pandas.png)
+<img src="img/pandas.png" width="50%" height="50%" title="Pandas" alt="Pandas Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## Scikit-Learn -->
-![Scikit-Learn Logo](img/scikitlearn.png)
+<img src="img/scikitlearn.png" width="100%" height="100%" title="Scikit-Learn" alt="Scikit-Learn Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## TensorFlow -->
-![TensorFlow Logo](img/tensorflow.png)
+<img src="img/tensorflow.png" width="60%" height="60%" title="TensorFlow" alt="TensorFlow Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## Microsoft Azure Machine Learning -->
-![Microsoft Azure Machine Learning Logo](img/azureml.png)
+<img src="img/azureml.png" width="50%" height="50%" title="Microsoft Azure Machine Learning" alt="Microsoft Azure Machine Learning Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## Docker -->
-![Docker Logo](img/docker.png)
+<img src="img/docker.png" width="60%" height="60%" title="Docker" alt="Docker Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## Apache Airflow -->
-![Airflow Logo](img/airflow.png)
+<img src="img/airflow.png" width="50%" height="50%" title="Airflow" alt="Airflow Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## PyTorch -->
-![PyTorch Logo](img/pytorch.png)
+<img src="img/pytorch.png" width="50%" height="50%" title="PyTorch" alt="PyTorch Logo" style="position:relative;top:20%;"/></span>
 
-<!-- ## VS Code -->
-![VS Code Logo](img/vscode.png)
+<img src="img/vscode.png" width="50%" height="50%" title="VS Code" alt="VS Code Logo" style="position:relative;top:20%;"/></span>
+
+## Activity Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hugosouto&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats)
