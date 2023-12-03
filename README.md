@@ -1,13 +1,45 @@
-# Welcome to GitHub profile!
+## Welcome to GitHub profile!
 
 ## Who I am
 
-I'm Hugo Souto, a seasoned MSc in Data Science and former long-distance triathlete, committed to bringing focus and discipline to the field of machine learning.
+I'm Hugo Souto, a seasoned data scientist and a former long-distance triathlete committed to bringing focus and discipline to machine learning.
 
-With over ten years of experience as an analyst and manager and five years in data science, I've mainly worked as a Senior Data Scientist at [ComprasGov](www.gov.br/compras), the official procurement system of the Federal Government of Brazil. My expertise covers end-to-end data pipelines, from data engineering with multiple sources, to specialized data analysis for high-level management at the Ministry of Economy of Brazil. I am also experienced in dashboard development to comply with national transparency and regulations. In recent years, I've been focused on leading significant machine learning projects, one of which is being developed and deployed by me using Microsoft Azure AI.
+### Expertise
 
-## Some Technologies
+- 🔎 10+ years in fraud analysis and detection in public procurement
+- 💡 MBA in Business Innovation at [UFCG](https://portal.ufcg.edu.br/)/[PaqTcPB](https://www.paqtc.org.br/)
+- 🎓 MSc in Information Sciences at [UFPB](https://www.ufpb.br/) with research in the irregular use of bidding bots in public procurement
+- 🎯 5+ years as a Data Scientist at [ComprasGov](www.gov.br/compras), the official procurement system of the Federal Government of Brazil
+- 🤖 Product Owner of 2 AI projects for the Federal Government of Brazil
 
-| ![Python Logo](img/python.png "Python") | ![PostgreSQL Logo](img/postgres.png "PostgreSQL") | ![Pandas Logo](img/pandas.png "Pandas") | ![Microsoft Azure Machine Learning Logo](img/azureml.png "Microsoft Azure Machine Learning") | ![Docker Logo](img/docker.png "Docker") | ![Airflow Logo](img/airflow.png "Airflow") | ![Scikit-Learn Logo](img/scikitlearn.png "Scikit-Learn") | ![TensorFlow Logo](img/tensorflow.png "TensorFlow") | ![PyTorch Logo](img/pytorch.png "PyTorch") | ![Keras](img/keras.png "Keras") | ![Databricks Azure](img/databricks-azure.png "Databricks Azure") | ![Apache Spark](img/spark.png "Apache Spark") | ![VS Code Logo](img/vscode.png "VS Code") | ![GitHub](img/github.png "GitHub") | ![Power BI](img/powerbi.png "Power BI") | ![Google Looker](img/looker.png "Google Looker") | ![Qlik](img/qlik.png "Qlik") | ![Tableau](img/tableau.png "Tableau") | ![R](img/r.png "R") |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Python | PostgreSQL | Pandas | Azure AI | Docker | Airflow | Scikit-Learn | TensorFlow | PyTorch | Keras | Databricks Azure | Apache Spark | VS Code | GitHub | Power BI | Google Looker | Qlik | Tableau | R |
+### Languages & Clouds
+
+- <img height="17" src="img/python.png"> Python
+- <img height="17" src="img/postgres.png"> PostgreSQL
+- <img height="17" src="img/azureml.png"> Microsoft Azure AI
+- <img height="17" src="img/databricks-azure.png"> Databricks Azure
+
+### Data Science & Machine Learning
+
+- <img height="17" src="img/pandas.png"> Pandas
+- <img height="17" src="img/scikitlearn.png"> Scikit-Learn
+- <img height="17" src="img/tensorflow.png"> TensorFlow
+- <img height="17" src="img/pytorch.png"> PyTorch
+- <img height="17" src="img/keras.png"> Keras
+
+### Data & ML Engineering
+
+- <img height="17" src="img/airflow.png"> Airflow
+- <img height="17" src="img/docker.png"> Docker
+
+### Data Vizualization & Analytics
+
+- <img height="17" src="img/looker.png"> Google Looker
+- <img height="17" src="img/qlik.png"> Qlik Sense
+- <img height="17" src="img/powerbi.png"> Power BI
+- <img height="17" src="img/tableau.png"> Tableau
+
+### Tools
+
+- <img height="17" src="img/vscode.png"> VS Code
+- <img height="17" src="img/github.png"> GitHub
