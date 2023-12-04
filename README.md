@@ -1,6 +1,6 @@
 # Welcome to GitHub!
 
-I'm Hugo Souto, a seasoned data scientist and a former long-distance triathlete committed to bringing **focus** and **discipline** to machine learning.
+I'm Hugo Souto, a former long-distance triathlete committed to bringing **focus** and **discipline** to data science and machine learning.
 
 ## Expertise
 
