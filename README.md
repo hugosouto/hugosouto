@@ -28,6 +28,7 @@ I'm Hugo Souto, a former long-distance triathlete committed to bringing **focus*
 
 ## Data Science 
 
+- <img height="17" src="img/jupyter.png"> Jupyter Notebook
 - <img height="17" src="img/pandas.png"> Pandas
 - <img height="17" src="img/numpy.png"> Numpy
 - <img height="17" src="img/matplotlib.png"> Matplotlib
