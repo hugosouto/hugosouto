@@ -16,6 +16,7 @@ I'm Hugo Souto, a former long-distance triathlete committed to bringing **focus*
   - [Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/5dded7ead3213a8ca8bd3c8498510ef8)
 - <img height="17" src="img/microsoft.png"> Specializating as Microsoft Azure Data Scientist Associate
   - [Create Machine Learning Models in Microsoft Azure](https://coursera.org/share/41bfda128e5207e58b0dc70c1324f1fc)
+  - [Microsoft Azure Machine Learning for Data Scientists](https://www.coursera.org/account/accomplishments/certificate/S3ETQZNYXVMG)
 
 ## Languages, Databases & Clouds
 
