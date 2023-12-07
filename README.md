@@ -41,6 +41,7 @@ I'm Hugo Souto, a former long-distance triathlete committed to bringing **focus*
 - <img height="17" src="img/tensorflow.png"> TensorFlow
 - <img height="17" src="img/pytorch.png"> PyTorch
 - <img height="17" src="img/keras.png"> Keras
+- <img height="17" src="img/mlflow.png"> MLflow
 
 ## Data Engineering, Prototyping & ML Engineering
 
